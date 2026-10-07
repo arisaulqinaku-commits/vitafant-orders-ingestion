@@ -1,0 +1,7 @@
+services:
+  orders-api:
+    build: ./mock-api
+    ports:
+      - "8080:8080"
+    environment:
+      ORDERS_API_TOKEN: vf_demo_a7f3d91c4b8e

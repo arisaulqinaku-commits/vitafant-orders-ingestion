@@ -1,0 +1,6 @@
+.env
+*.db
+__pycache__/
+.venv/
+.vscode/
+show_query.py
