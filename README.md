@@ -54,7 +54,6 @@ Running it a second time gives identical numbers.
   loader, no extra dependency). The token is never in the code or the image.
 
 ## With more time
-## With more time
 1. Alerting on failed runs, and structured logging instead of `print`.
 2. Incremental loads: only fetch orders changed since the last run.
 3. Automated tests for the net-revenue calculation and the filtering rules.
@@ -70,7 +69,7 @@ Running it a second time gives identical numbers.
 - **Cloud answer:** I drafted it myself; Claude suggested the staging-table/MERGE approach and helped polish the wording.
 - **Explanations/troubleshooting:** Claude explained Docker, Git, Python and SQL
   concepts and helped debug errors. I also used GeeksforGeeks, Reddit and Quora.
-  
+
 ## Hours
 - Task work: 2h 42min
 - Learning before/during (Docker, Git, SQL, API basics): 5h 57min
